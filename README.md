@@ -16,5 +16,9 @@
  </br>
  
 <h2> More Scripts </h2> 👇 <br> 
-https://github.com/blastersuraj?tab=repositories
+https://github.com/blastersuraj?tab=repositories <br>
+
+<h1> Tebex ➤  https://ef-productions.tebex.io/ </h1> <br>
+
+<h2>Buy me a Coffee 😊 ➤  https://ef-productions.tebex.io/package/5636646 </h2>  <br>
 
