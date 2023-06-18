@@ -1,7 +1,7 @@
 <h1>Make easy blip for your FiveM Server</h1>
  
 <br>
-<p> easy config </p>
+<h2> easy config </h2>
 </br>
 
 ```lua
@@ -14,3 +14,7 @@
 },
 ```
  </br>
+ 
+<h2> More Scripts </h2> <br>
+https://github.com/blastersuraj?tab=repositories
+
