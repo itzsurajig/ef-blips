@@ -1,5 +1,7 @@
 <h1>Make easy blip for your FiveM Server<h1>
  
+ <br>
+ <p> easy config
   ```lua
 [1] = {
     vector = vector3(538.32, -183.18, 54.47), 
@@ -9,3 +11,4 @@
     scale = 0.5,
 },
 ```
+ <br>
