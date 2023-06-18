@@ -14,10 +14,10 @@
 },
 ```
  </br>
- 
-<h2> More Scripts ➤  https://github.com/blastersuraj?tab=repositories </h2> <br> 
+
 
 <h1> Tebex ➤  https://ef-productions.tebex.io/ </h1> <br>
-
+<h1> Discord  ➤  https://discord.gg/WbDp5GQ45t  </h1> <br>
+<h2> More Scripts ➤  https://github.com/blastersuraj?tab=repositories </h2> <br> 
 <h2>Buy me a Coffee 😊 ➤  https://ef-productions.tebex.io/package/5636646 </h2>  <br>
 
