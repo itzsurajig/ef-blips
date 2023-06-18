@@ -15,8 +15,7 @@
 ```
  </br>
  
-<h2> More Scripts </h2> 👇 <br> 
-https://github.com/blastersuraj?tab=repositories <br>
+<h2> More Scripts ➤  https://github.com/blastersuraj?tab=repositories </h2> <br> 
 
 <h1> Tebex ➤  https://ef-productions.tebex.io/ </h1> <br>
 
