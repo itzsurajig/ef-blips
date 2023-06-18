@@ -1,9 +1,10 @@
-<h1>Make easy blip for your FiveM Server<h1>
+<h1>Make easy blip for your FiveM Server</h1>
  
- <br>
- <p> easy config <p>
 <br>
-  ```lua
+<p> easy config </p>
+</br>
+
+```lua
 [1] = {
     vector = vector3(538.32, -183.18, 54.47), 
     text = "Repair Station", 
@@ -12,4 +13,4 @@
     scale = 0.5,
 },
 ```
- <br>
+ </br>
