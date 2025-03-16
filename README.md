@@ -24,5 +24,5 @@
 # [Tebex ](https://ef-productions.tebex.io/) <br>
 # [Discord  ](https://discord.gg/WbDp5GQ45t) <br>
 # [More Scripts ➤](https://github.com/blastersuraj?tab=repositories) <br> 
-# [Buy me a Coffee 😊 ➤](https://ef-productions.tebex.io/package/5636646) <br>
+# [Buy me a Coffee 😊 ➤](https://ef-development.tebex.io/package/5636646) <br>
 
